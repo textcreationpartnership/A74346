@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for taking and receiving the accompts of the Commonwealth. VVith instructions concerning the same. Die Jovis, 11 Octobr. 1649. Ordered by the Commons assembled in Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74346</idno><idno type="EEBO-CITATION">99867630</idno>
+  <idno type="VID">119949</idno>
+  <idno type="EEBO-PROQUEST">2240956493</idno>
+  
+            <idno type="STC">Thomason E1060_68</idno>
+            <idno type="STC">ESTC R208703</idno>
+            <idno type="PROQUEST">99867630</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99867630e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74346)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119949)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[68])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for taking and receiving the accompts of the Commonwealth. VVith instructions concerning the same. Die Jovis, 11 Octobr. 1649. Ordered by the Commons assembled in Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 613-621, [i.e 11] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by John Field for Edward Husband, printer to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 15. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 5K2: the last word of first line of text: 'Eng-'; first word of line below initial: 'tisfaction'; last word of last full line of text: 'Green-'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Signatures: 5K⁴ 5L² .</note>
+                  <note>Title ornament. Initial letter. Text partially in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Auditing committees --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Economic conditions --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:119949:1"/>
+            <p>AN ACT For taking and receiving the ACCOMPTS OF THE Commonwealth.</p>
+            <p>With Instructions concerning the same.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis, 11 Octobr. 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Commons assembled in Parliament, That this Act be forthwith printed and published.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>John Field</hi> for <hi>Edward Husband,</hi> Printer to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi> Octob. 15. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:119949:2"/>
+            <pb n="613" facs="tcp:119949:2"/>
+            <head>AN ACT For taking and receiving the ACCOMPTS OF THE Commonwealth.</head>
+            <head type="sub">VVith Instructions concerning the same.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> now assembled, ta<g ref="char:EOLhyphen"/>king into their Consi<g ref="char:EOLhyphen"/>deration, that divers sums of Money, Plate and Goods have been raised and received of the People of the Na<g ref="char:EOLhyphen"/>tion, for which no Ac<g ref="char:EOLhyphen"/>compts have been yet rendred for publique sa<g ref="char:EOLhyphen"/>tisfaction; And thinking it very necessary, That all and every the Collectors and Receivers of such Money, Plate and Goods, should make a perfect Accompt of all the said particulars, Do Enact and Ordain, and be it therefore Enacted and Ordained by the Authority of the same Par<g ref="char:EOLhyphen"/>liament, That the persons hereafter named, that is to say, <hi>Richard Wilcox, Thomas Richardson, Nicholas Bond, Henry Broad, Matthias Valentine, John Green<g ref="char:EOLhyphen"/>smith,
+<pb n="614" facs="tcp:119949:3"/>Edward Fielder, John Ufflet, Henry Robinson, William Madison,</hi> and <hi>Pierce Robinson,</hi> or any five or more of them, shall be a Committee for taking and receiving the Publique Accompts of the Commonwealth. And because several Orders and Ordinances of Parliament have been for<g ref="char:EOLhyphen"/>merly made and published, for taking Accompts; particularly an Ordinance, entituled, <hi>An Ordi<g ref="char:EOLhyphen"/>nance of the Lords and Commons assembled in Parlia<g ref="char:EOLhyphen"/>ment, for taking and receiving the Accompts of the whole Kingdom,</hi> dated the Two and twentieth of <hi>Februa<g ref="char:EOLhyphen"/>ry,</hi> One thousand six hundred forty three; and one other Explanatory Ordinance of the Eleventh of <hi>July,</hi> One thousand six hundred forty four; and also another additional Ordinance, of the Six and twentieth of <hi>June,</hi> One thousand six hundred forty five: Be it, and it is hereby fur<g ref="char:EOLhyphen"/>ther Declared and Enacted, That all Commit<g ref="char:EOLhyphen"/>tees named in any such Order or Ordinance, and all Subcommittees by them named and appoint<g ref="char:EOLhyphen"/>ed, shall be, and hereby are discharged from thee service therein; And are hereby required, upon demand of the Committee herein named, to de<g ref="char:EOLhyphen"/>liver up all their Books of Accompts, Writings, Vouchers, Inventories, Appraisements, Ren<g ref="char:EOLhyphen"/>tals, and all other Evidences and Papers what<g ref="char:EOLhyphen"/>soever, which are in their or any of their custo<g ref="char:EOLhyphen"/>dies, or in the hands of any other person or per<g ref="char:EOLhyphen"/>sons by their order or appointment, and do any way relate to the Publique Accompts of the Commonwealth. And it is further Ordained and Enacted, That the Committee herein named shall be, and hereby are enabled and authorized to put the said Orders, Ordinances, and all and every Clause and Clauses therein contained, or so much of them as they shall think fit, in execu<g ref="char:EOLhyphen"/>tion,
+<pb n="615" facs="tcp:119949:3"/>with as full and ample power and authori<g ref="char:EOLhyphen"/>ty, to all intents and purposes, as the Commit<g ref="char:EOLhyphen"/>tees therein named, or any of them are enabled to do: Provided, That this following Clause be added to the Oath which is to be taken by every person which shall enter upon this service:</p>
+            <p>
+               <hi>Nor wittingly, willingly or causlesly molest or trouble any person to his prejudice, and for his vexation, under the pretence or colour of the Authority committed unto me by the Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+            </p>
+            <p>And for the better taking and expediting the said Accompts, Be it, and it is hereby further Declared and Enacted by the Authority afore<g ref="char:EOLhyphen"/>said, That such person or persons within the Ci<g ref="char:EOLhyphen"/>ties of <hi>London</hi> and <hi>Westminster,</hi> and the Liberties thereof, as shall finde themselves any way charge<g ref="char:EOLhyphen"/>able or accomptable to the Commonwealth, shall within Two and forty days after the Printing and Publishing of this Act, deliver unto the Committee herein named, a true and perfect Accompt, fairly written, and subscribed with their Names, of all Moneys and other things whatsoever, with which they now are, or here<g ref="char:EOLhyphen"/>tofore have been chargeable or accomptable, to the use of the Commonwealth: And all other persons within this Nation, and the Dominion of <hi>Wales,</hi> who are yet accomptable as aforesaid, shall deliver in their Accompts fairly written, and subscribed as aforesaid, to the said Commit<g ref="char:EOLhyphen"/>tee, within six moneths next ensuing the Print<g ref="char:EOLhyphen"/>ing and publishing of this Act, Vnless this Com<g ref="char:EOLhyphen"/>mittee shall in the mean time appoint other per<g ref="char:EOLhyphen"/>sons
+<pb n="616" facs="tcp:119949:4"/>to receive the same: All which Accompts shall be brought and delivered in at the Office for Accompts, scituate and being in <hi>Worcester</hi>-house. Provided, That if any person shall come and make it appear to the Committee, upon just and lawful Reasons, That his Accompts cannot be brought in within such time as aforesaid, Then such persons shall be allowed some convenient time, with respect to the length of his Accompt, as to the Committee shall seem meet. Provided also, That if any person hath duly and truly past his Accompts with, and received his Dis<g ref="char:EOLhyphen"/>charge from Parliament, or other persons au<g ref="char:EOLhyphen"/>thorized thereunto, Then such person is hereby required to bring in his Acquittances and Dis<g ref="char:EOLhyphen"/>charges onely, to the Committee, within the time before limited, to the end they may be there taken notice of, and Registred. Provided also, That if any person or persons have delivered in a just and perfect Accompt to the former Com<g ref="char:EOLhyphen"/>mittee of Accompts, or to any other person or persons authorized by Parliament to receive the same, and have not received a Discharge therein, Then and in such case the Committee herein named, or any five or more of them, shall consi<g ref="char:EOLhyphen"/>der of the same Accompts so delivered in for<g ref="char:EOLhyphen"/>merly; and if they finde them to be just and true, Then to give a full Discharge and Ac<g ref="char:EOLhyphen"/>quittance to such person or persons for the same by Authority of this present Act of Parlia<g ref="char:EOLhyphen"/>ment. And it is further Enacted, That if any person or persons at the time of Publica<g ref="char:EOLhyphen"/>tion of this present Act, shall have any sum or sums of Money remaining in his or their hands, upon any Accompts hereafter to be examined and determined, and shall forthwith make pay<g ref="char:EOLhyphen"/>ment
+<pb n="617" facs="tcp:119949:4"/>of the same unto the Treasurers hereafter named, It shall be allowed unto him or them upon the determination of his or their Accompts; and in the mean time the Acquittances of the said Treasurers shall be to them and every of them a plenary and sufficient Discharge. And it is further Declared and Enacted, That who<g ref="char:EOLhyphen"/>soever shall after the time aforesaid given for making and bringing in Accompts, discover by the Oathes of Two credible Witnesses, That any person or persons, who according to this Act ought to be accomptable, hath not within the time before-mentioned given in his Accompt, nor appeared before the said Committee, to de<g ref="char:EOLhyphen"/>sire time so to do; or having given in his Ac<g ref="char:EOLhyphen"/>compts, That the said person or persons had any sum or sums of Money remaining there<g ref="char:EOLhyphen"/>upon, and not paid in according to this Act; or that he or they had received more Money or other things then is acknowledged upon his or their Accompts, Then every such person, who upon due Proof and Examination before the said Committee, shall be found faulty in the premises, shall forfeit to the use and bene<g ref="char:EOLhyphen"/>fit of the Commonwealth, One full fifth part of the Money and other things so Concealed, over and above the sum due from the said per<g ref="char:EOLhyphen"/>son; which fifth part the Committee herein named are authorized to Levy upon the Estate Real and Personal of such persons: And eve<g ref="char:EOLhyphen"/>ry such Discoverer, if he be a person to whom the Parliament is engaged for arrears of Pay as a Soldier, or for Money or other things upon the Publique Faith, shall receive his ar<g ref="char:EOLhyphen"/>rears or Debt due from the Commonwealth, out of the sum so discovered: Provided it ex<g ref="char:EOLhyphen"/>ceed
+<pb n="618" facs="tcp:119949:5"/>not one Third part of the value brought in; and if such Discoverer shall have any Mo<g ref="char:EOLhyphen"/>ney due as aforesaid, then he or they shall have and receive for his Charges and Pains, One fifth part of the Moneys or other things so dis<g ref="char:EOLhyphen"/>covered as aforesaid: Provided, That such discovery or surcharge be made within two years from the making and publishing of this present Act. Be it further Enacted, That all persons who under the pretence of Authority from the late King, or any acting under him, have le<g ref="char:EOLhyphen"/>vyed or received Moneys upon any persons of <hi>England</hi> or <hi>Wales,</hi> by way of assess or other<g ref="char:EOLhyphen"/>wise, be and are comprehended in this Act, to the end they may be brought to Accompt by the persons named in this Act, and in the same maner as is therein expressed; and that all such persons shall make a just Accompt how these Moneys have been disposed of, to the end that what Moneys do appear to remain in their hands, may be disposed of to the relief of the persons from whom they have been taken, or otherwise as the Parliament shall think fit. And it is also Enacted by the Authority afore<g ref="char:EOLhyphen"/>said, That the several sum and sums of Mo<g ref="char:EOLhyphen"/>ney brought in and raised by force and vertue of this present Act, shall be paid by Order of the said Committee, and not otherwise, unto <hi>Nathaniel Stirrop,</hi> and Lieutenant Colonel <hi>Tho<g ref="char:EOLhyphen"/>mas Crompton</hi> of <hi>Westminster,</hi> who are hereby no<g ref="char:EOLhyphen"/>minated and appointed Treasurers for the same; All which Moneys (such Salaries being first allowed and paid unto the several Officers im<g ref="char:EOLhyphen"/>ployed by the said Committee, and such other incident charges, as the said Committee shall finde necessary in the execution of this Service,
+<pb n="619" facs="tcp:119949:5"/>whose Warrant shall be a sufficient Discharge to the Treasurers for payment of the same) shall be issued out, and disposed of for the service of the Commonwealth, and not otherwise, by Order of Parliament. Provided, That it shall and may be lawful for the said Treasurers, to de<g ref="char:EOLhyphen"/>duct One peny in every Twenty shillings va<g ref="char:EOLhyphen"/>lue of such Money as shall be paid unto them, for and towards their Charge and Pains in the execution of this service.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="instructions">
+                        <head>INSTRUCTIONS</head>
+                        <p>For the Grand Committee for taking and receiving the Accompts of the Common<g ref="char:EOLhyphen"/>wealth, according to an Act of this present Parliament.</p>
+                        <div n="1" type="part">
+                           <head>I.</head>
+                           <p>FIrst, you are to examine the Accompts of all persons whatsoever, who are any way ac<g ref="char:EOLhyphen"/>comptable, according to this Act, since the Third day of <hi>November,</hi> One thousand six hundred and forty, unto this time, and so forward, until it shall be otherwise Ordered and Enacted by Parliament.</p>
+                        </div>
+                        <div n="2" type="part">
+                           <head>II.</head>
+                           <p>Secondly, you are upon the examination of any Accompt, to keep the Vouchers and Proofs re<g ref="char:EOLhyphen"/>lating thereunto; and in case you finde a real
+<pb n="620" facs="tcp:119949:6"/>Discharge, such as you shall approve, you are then to pass such Accompts, without any further trouble or examination of the Accomptants, and to certifie the same, if you shall be thereunto de<g ref="char:EOLhyphen"/>sired: And in case upon the examination of any Accompts, you shall finde them perfectly and faithfully cleared, you are then to give the Ac<g ref="char:EOLhyphen"/>comptants a full and absolute Discharge under your Hands, which shall hereafter be good and valid, to all intents and purposes whatsoever.</p>
+                        </div>
+                        <div n="3" type="part">
+                           <head>III.</head>
+                           <p>Thirdly, you are to cause the Accompts of each City, County, or other place, to be Printed severally, or so much thereof as you shall think fit, for the satisfaction of the Commonwealth: And you are to give liberty to any person, to re<g ref="char:EOLhyphen"/>ceive a Transcript or Extract of any Accompt, if he shall desire the same, for which the Offi<g ref="char:EOLhyphen"/>cer that takes pains therein, shall and may take such allowance as is given by any former Ordi<g ref="char:EOLhyphen"/>nances of Parliament made in that behalf.</p>
+                        </div>
+                        <div n="4" type="part">
+                           <head>IV.</head>
+                           <p>Fourthly, in case any person or persons ac<g ref="char:EOLhyphen"/>comptable according unto this Act, be already deceased, or shall decease before the determina<g ref="char:EOLhyphen"/>tion of his or their Accompts, Then you are to cause such Accompts to be prosecuted to a deter<g ref="char:EOLhyphen"/>mination
+<pb n="621" facs="tcp:119949:6"/>by the Heirs, Executors or Admini<g ref="char:EOLhyphen"/>strators of such person or persons so accomptable.</p>
+                        </div>
+                        <div n="5" type="part">
+                           <head>V.</head>
+                           <p>Lastly, in case you shall finde out any person or persons that have notoriously defrauded the Commonwealth, you are to return the Names of such person or persons to the Parliament, or such as they shall appoint to receive the same, That such exemplary Punishment may be inflicted up<g ref="char:EOLhyphen"/>on them, proportionable to their Offences, as the Parliament in their wisdoms shall think meet.</p>
+                        </div>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>Provided always, That this Act, or any thing therein contained, shall not extend to the taking of any Accompts, which by the Law are to be taken and passed in the Court of the publique Exchequer.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Die Jovis,</hi> 11 <hi>Octobr.</hi> 1649.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Commons assembled in Par<g ref="char:EOLhyphen"/>liament, That this Act be forthwith printed and published.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
